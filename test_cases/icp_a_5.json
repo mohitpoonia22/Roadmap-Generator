@@ -1,0 +1,15 @@
+{
+  "icp_type": "high_wage",
+  "name": "Tanvir Ahmed",
+  "current_role": "Recent graduate (BSc Computer Science)",
+  "target_role": "Data Engineer",
+  "urgency_months": 3,
+  "skills": ["Python (intermediate)", "SQL", "Pandas", "Basic statistics"],
+  "language": "en",
+  "vision_profile": {
+    "current_life": "Graduated 2 months ago, family pressure to get a job fast, doing freelance data work",
+    "main_blocker": "Know the theory but never built a real data pipeline end-to-end",
+    "vision_12mo": "Working at a data-first company, owning the ETL pipeline that feeds the dashboard",
+    "top_motivation": "Need a job in 3 months — family depends on this"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "icp_type": "high_wage",
+  "name": "Aryan Kapoor",
+  "current_role": "Mechanical Engineering fresher",
+  "target_role": "Backend Developer",
+  "urgency_months": 12,
+  "skills": ["C basics", "AutoCAD", "Excel", "Mathematics"],
+  "language": "en",
+  "vision_profile": {
+    "current_life": "Graduated 3 months ago, sitting at home, applying to IT companies with no success",
+    "main_blocker": "No software background, don't know where to start with coding",
+    "vision_12mo": "Working at a startup as a junior backend developer, writing APIs that real users hit",
+    "top_motivation": "Want to switch fields completely — mechanical has no future for me in this city"
+  }
+}

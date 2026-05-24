@@ -1,0 +1,15 @@
+{
+  "icp_type": "low_wage",
+  "name": "Kavita Singh",
+  "current_role": "Factory floor worker (garment unit)",
+  "target_role": "Cashier / billing assistant",
+  "urgency_months": 3,
+  "skills": ["Basic arithmetic", "Counting and sorting", "Hindi literacy"],
+  "language": "hi",
+  "vision_profile": {
+    "current_life": "Standing 9 hours on factory floor, piece-rate pay, no weekends",
+    "main_blocker": "Has never used a billing machine or computer, intimidated by retail environment",
+    "vision_12mo": "Sitting at a billing counter in a supermarket, steady ₹15k salary, AC room",
+    "top_motivation": "AC office, dignity, fixed salary — tired of factory"
+  }
+}

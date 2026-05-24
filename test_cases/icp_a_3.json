@@ -1,0 +1,15 @@
+{
+  "icp_type": "high_wage",
+  "name": "Sneha Reddy",
+  "current_role": "BCA graduate (freshly passed out)",
+  "target_role": "Frontend Developer",
+  "urgency_months": 4,
+  "skills": ["HTML", "CSS basics", "Java (college level)", "MS Office"],
+  "language": "en",
+  "vision_profile": {
+    "current_life": "Just graduated, campus placements gave only service-based company offers, rejected all",
+    "main_blocker": "Only theoretical knowledge, never built a live website anyone actually used",
+    "vision_12mo": "Working at a product company in Hyderabad, building UI that real customers see",
+    "top_motivation": "Want to work somewhere that values what I build, not just attendance"
+  }
+}

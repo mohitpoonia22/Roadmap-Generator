@@ -1,0 +1,15 @@
+{
+  "icp_type": "low_wage",
+  "name": "Deepak Sharma",
+  "current_role": "Security guard (night shift, housing society)",
+  "target_role": "BPO / call centre agent",
+  "urgency_months": 5,
+  "skills": ["Spoken Hindi", "Basic English words", "Smartphone use", "Responsible and reliable"],
+  "language": "hi",
+  "vision_profile": {
+    "current_life": "Working night shifts, 12 hours standing, ₹9000/month, misses family time",
+    "main_blocker": "Weak English, scared of speaking on phone with strangers professionally",
+    "vision_12mo": "Day shift BPO job, ₹18k-20k salary, sleeping at night like a normal person",
+    "top_motivation": "Want to be home for dinner with family, tired of night life"
+  }
+}

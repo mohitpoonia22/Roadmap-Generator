@@ -1,0 +1,74 @@
+{
+  "milestones": [
+    {
+      "code": "M01",
+      "title": "बेसिक स्किल्स दिवस १",
+      "salary_tier": "₹०–१२कि/माह",
+      "unlock_statement": "अर्जुन, आप अपने स्मार्टफ़ोन पर माइक्रोसॉफ़्ट एक्सेल को खोलेंगे और १० मिनट में १० रो सही-सही भरेंगे।",
+      "blur_level": 0,
+      "scenario_count": 4,
+      "assessment_count": 3,
+      "mock_interview_count": 2
+    },
+    {
+      "code": "M02",
+      "title": "ऑफ़िस रेडी",
+      "salary_tier": "₹१२–१५कि/माह",
+      "unlock_statement": "आप अपने एक्सेल स्किल्स का उपयोग करके एक छोटी सी रिपोर्ट तैयार करेंगे और अपने वरिष्ठ को समझाएंगे कि आपने क्या सीखा है।",
+      "blur_level": 0,
+      "scenario_count": 4,
+      "assessment_count": 3,
+      "mock_interview_count": 2
+    },
+    {
+      "code": "M03",
+      "title": "पहली पगार",
+      "salary_tier": "₹१५–१८कि/माह",
+      "unlock_statement": "अर्जुन, आप अपनी पहली पगार का चेक प्राप्त करेंगे और अपने परिवार के साथ इसका जश्न मनाएंगे, क्योंकि आपने अपने लक्ष्य की दिशा में पहला कदम बढ़ाया है।",
+      "blur_level": 1,
+      "scenario_count": 3,
+      "assessment_count": 2,
+      "mock_interview_count": 1
+    },
+    {
+      "code": "M04",
+      "title": "विश्वास योग्य कर्मचारी",
+      "salary_tier": "₹१८–२२कि/माह",
+      "unlock_statement": "आप अपने वरिष्ठ को अपने काम की गुणवत्ता और समय पर काम पूरा करने की क्षमता के बारे में बताएंगे, और वे आपकी प्रगति से संतुष्ट होंगे।",
+      "blur_level": 2,
+      "scenario_count": 2,
+      "assessment_count": 2,
+      "mock_interview_count": 1
+    },
+    {
+      "code": "M05",
+      "title": "डेटा एंट्री मास्टर",
+      "salary_tier": "₹२२–२८कि/माह",
+      "unlock_statement": "अर्जुन, आप डेटा एंट्री के काम में माहिर हो जाएंगे और अपने साथियों को भी सिखाएंगे कि कैसे तेजी से और सटीकता से काम किया जा सकता है।",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    },
+    {
+      "code": "M06",
+      "title": "टीम लीडर",
+      "salary_tier": "₹२८–३५कि/माह",
+      "unlock_statement": "आप अपनी टीम का नेतृत्व करेंगे और अपने साथियों को प्रेरित करेंगे कि वे अपने लक्ष्यों को प्राप्त करने के लिए कड़ी मेहनत करें।",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    },
+    {
+      "code": "M07",
+      "title": "सीनियर डेटा एंट्री एग्जीक्यूटिव",
+      "salary_tier": "₹३५कि+/माह",
+      "unlock_statement": "अर्जुन, आप अपने संगठन में एक वरिष्ठ पद पर पहुंच जाएंगे और अपने ज्ञान और अनुभव का उपयोग करके अपने साथियों को मार्गदर्शन प्रदान करेंगे।",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    }
+  ]
+}

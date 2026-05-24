@@ -1,0 +1,74 @@
+{
+  "milestones": [
+    {
+      "code": "M01",
+      "title": "बिलिंग मशीन का परिचय",
+      "salary_tier": "₹0–12k/month",
+      "unlock_statement": "कविता, आप पहली बार बिलिंग मशीन को चलाएंगी और ५ ग्राहकों का बिल बनाएंगी — बिना किसी मदद के",
+      "blur_level": 0,
+      "scenario_count": 4,
+      "assessment_count": 3,
+      "mock_interview_count": 2
+    },
+    {
+      "code": "M02",
+      "title": "ग्राहक सेवा कौशल",
+      "salary_tier": "₹12–15k/month",
+      "unlock_statement": "आप ग्राहकों से बात करेंगी और उनकी शिकायतों का समाधान करेंगी — मुस्कुराहट के साथ",
+      "blur_level": 0,
+      "scenario_count": 4,
+      "assessment_count": 3,
+      "mock_interview_count": 2
+    },
+    {
+      "code": "M03",
+      "title": "बिलिंग मशीन में महारत",
+      "salary_tier": "₹15–18k/month",
+      "unlock_statement": "कविता, आप बिलिंग मशीन पर 10 बिल बनाएंगी — 5 मिनट में — और ग्राहकों को धन्यवाद देंगी",
+      "blur_level": 1,
+      "scenario_count": 3,
+      "assessment_count": 2,
+      "mock_interview_count": 1
+    },
+    {
+      "code": "M04",
+      "title": "कैशियर की जिम्मेदारी",
+      "salary_tier": "₹18–22k/month",
+      "unlock_statement": "आप कैश काउंटर पर बैठेंगी और ग्राहकों को परिवर्तन देंगी — बिना किसी गलती के",
+      "blur_level": 2,
+      "scenario_count": 2,
+      "assessment_count": 2,
+      "mock_interview_count": 1
+    },
+    {
+      "code": "M05",
+      "title": "बिलिंग और कैशियर की दुनिया",
+      "salary_tier": "₹22–28k/month",
+      "unlock_statement": "कविता, आप अपने सहकर्मियों को बिलिंग मशीन का उपयोग सिखाएंगी और उन्हें प्रेरित करेंगी — अपनी सफलता की कहानी सुनाकर",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    },
+    {
+      "code": "M06",
+      "title": "सुपरमार्केट में काम करने का अनुभव",
+      "salary_tier": "₹28–35k/month",
+      "unlock_statement": "आप सुपरमार्केट में काम करेंगी और ग्राहकों को संतुष्ट करेंगी — अपनी मुस्कुराहट और कौशल से",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    },
+    {
+      "code": "M07",
+      "title": "स्थायी नौकरी और सम्मान",
+      "salary_tier": "₹35k+/month",
+      "unlock_statement": "कविता, आप अपने परिवार को गर्व से बताएंगी कि आप एक स्थायी नौकरी पर काम कर रही हैं — और आपको सम्मान मिल रहा है",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    }
+  ]
+}

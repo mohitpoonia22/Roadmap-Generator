@@ -1,0 +1,74 @@
+{
+  "milestones": [
+    {
+      "code": "M01",
+      "title": "बेसिक कार्यालय कौशल",
+      "salary_tier": "₹0–12k/month",
+      "unlock_statement": "रमेश, आप अपना पहला रिज्यूमे बनाएंगे और इसे अपने संभावित नियोक्ता को दिखाएंगे।",
+      "blur_level": 0,
+      "scenario_count": 4,
+      "assessment_count": 3,
+      "mock_interview_count": 2
+    },
+    {
+      "code": "M02",
+      "title": "कार्यालय में दिन-प्रतिदिन के कार्य",
+      "salary_tier": "₹12–15k/month",
+      "unlock_statement": "आप अपने पहले दिन कार्यालय में जाकर अपना परिचय देंगे और अपने सहकर्मियों से मिलेंगे।",
+      "blur_level": 0,
+      "scenario_count": 4,
+      "assessment_count": 3,
+      "mock_interview_count": 2
+    },
+    {
+      "code": "M03",
+      "title": "कार्यालय संचालन और संचार",
+      "salary_tier": "₹15–18k/month",
+      "unlock_statement": "आप अपने वरिष्ठों के साथ एक प्रभावी बैठक में भाग लेंगे और अपने विचार व्यक्त करेंगे।",
+      "blur_level": 1,
+      "scenario_count": 3,
+      "assessment_count": 2,
+      "mock_interview_count": 1
+    },
+    {
+      "code": "M04",
+      "title": "कार्यालय प्रबंधन और संगठन",
+      "salary_tier": "₹18–22k/month",
+      "unlock_statement": "रमेश, आप अपने कार्यालय में एक परियोजना का प्रबंधन करेंगे और अपनी प्रगति की रिपोर्ट तैयार करेंगे।",
+      "blur_level": 2,
+      "scenario_count": 2,
+      "assessment_count": 2,
+      "mock_interview_count": 1
+    },
+    {
+      "code": "M05",
+      "title": "विशेषज्ञता और विकास",
+      "salary_tier": "₹22–28k/month",
+      "unlock_statement": "आप अपने कार्यालय में एक विशेषज्ञ के रूप में पहचाने जाएंगे और अपने सहकर्मियों को प्रशिक्षित करेंगे।",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    },
+    {
+      "code": "M06",
+      "title": "नेतृत्व और प्रबंधन",
+      "salary_tier": "₹28–35k/month",
+      "unlock_statement": "रमेश, आप अपने कार्यालय में एक टीम का नेतृत्व करेंगे और अपने लक्ष्यों को प्राप्त करेंगे।",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    },
+    {
+      "code": "M07",
+      "title": "वरिष्ठ प्रबंधन और सलाहकार",
+      "salary_tier": "₹35k+/month",
+      "unlock_statement": "आप अपने कार्यालय में एक वरिष्ठ प्रबंधक के रूप में पहचाने जाएंगे और अपने अनुभव को साझा करेंगे।",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    }
+  ]
+}

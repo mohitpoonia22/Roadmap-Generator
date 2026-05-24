@@ -1,0 +1,74 @@
+{
+  "milestones": [
+    {
+      "code": "M01",
+      "title": "Foundation & First Project",
+      "salary_tier": "₹0–6 LPA",
+      "unlock_statement": "Aryan, you'll set up your first coding environment and write a simple REST API in Python, understanding how to handle GET and POST requests.",
+      "blur_level": 0,
+      "scenario_count": 4,
+      "assessment_count": 3,
+      "mock_interview_count": 2
+    },
+    {
+      "code": "M02",
+      "title": "Core Skills Unlocked",
+      "salary_tier": "₹6–8 LPA",
+      "unlock_statement": "You'll be able to explain the basics of database design and implement a simple CRUD application using MySQL and Python, showcasing your understanding of backend development fundamentals.",
+      "blur_level": 0,
+      "scenario_count": 4,
+      "assessment_count": 3,
+      "mock_interview_count": 2
+    },
+    {
+      "code": "M03",
+      "title": "Junior Dev Ready",
+      "salary_tier": "₹8–12 LPA",
+      "unlock_statement": "Aryan, you'll design and implement a simple e-commerce API, handling user authentication and authorization, and demonstrating your ability to work with APIs and databases.",
+      "blur_level": 1,
+      "scenario_count": 3,
+      "assessment_count": 2,
+      "mock_interview_count": 1
+    },
+    {
+      "code": "M04",
+      "title": "Mid-Level Engineer",
+      "salary_tier": "₹12–18 LPA",
+      "unlock_statement": "You'll lead a team project, designing and implementing a scalable backend system, and mentoring junior developers on best practices and coding standards, showcasing your leadership and technical skills.",
+      "blur_level": 2,
+      "scenario_count": 2,
+      "assessment_count": 2,
+      "mock_interview_count": 1
+    },
+    {
+      "code": "M05",
+      "title": "Senior Developer",
+      "salary_tier": "₹18–25 LPA",
+      "unlock_statement": "Aryan, you'll architect a complex backend system, integrating multiple services and APIs, and ensuring high availability and scalability, demonstrating your expertise in system design and architecture.",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    },
+    {
+      "code": "M06",
+      "title": "Technical Lead",
+      "salary_tier": "₹25–40 LPA",
+      "unlock_statement": "You'll drive technical decisions, leading a team of engineers, and ensuring that the technical vision aligns with the company's goals, and mentoring team members on technical skills and career development, showcasing your leadership and technical expertise.",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    },
+    {
+      "code": "M07",
+      "title": "Architect & Leader",
+      "salary_tier": "₹40+ LPA",
+      "unlock_statement": "Aryan, you'll be a recognized expert in your field, speaking at conferences, and leading large-scale technical initiatives, and shaping the technical direction of the company, demonstrating your thought leadership and technical vision.",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    }
+  ]
+}

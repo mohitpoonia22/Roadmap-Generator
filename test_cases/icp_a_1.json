@@ -1,0 +1,15 @@
+{
+  "icp_type": "high_wage",
+  "name": "Riya Sharma",
+  "current_role": "Final year CS student",
+  "target_role": "Software Engineer",
+  "urgency_months": 6,
+  "skills": ["Python basics", "HTML", "SQL"],
+  "language": "en",
+  "vision_profile": {
+    "current_life": "Studying for placements, no internship yet",
+    "main_blocker": "No real project experience",
+    "vision_12mo": "Working at a product company, building real features",
+    "top_motivation": "Want to prove the CS degree was worth it"
+  }
+}

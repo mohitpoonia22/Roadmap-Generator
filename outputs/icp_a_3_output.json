@@ -1,0 +1,74 @@
+{
+  "milestones": [
+    {
+      "code": "M01",
+      "title": "Foundation & First Project",
+      "salary_tier": "₹0–6 LPA",
+      "unlock_statement": "Sneha, you'll build a personal website using HTML and CSS, and host it on a live server, showing it off to your friends and family within the first month.",
+      "blur_level": 0,
+      "scenario_count": 4,
+      "assessment_count": 3,
+      "mock_interview_count": 2
+    },
+    {
+      "code": "M02",
+      "title": "Core Skills Unlocked",
+      "salary_tier": "₹6–8 LPA",
+      "unlock_statement": "You will create a responsive UI component using CSS, and explain the box model and flexbox to a peer, without needing to look up the documentation, by the end of week 6.",
+      "blur_level": 0,
+      "scenario_count": 4,
+      "assessment_count": 3,
+      "mock_interview_count": 2
+    },
+    {
+      "code": "M03",
+      "title": "Junior Dev Ready",
+      "salary_tier": "₹8–12 LPA",
+      "unlock_statement": "Sneha, you'll be able to implement a simple JavaScript functionality, like a To-Do list app, and debug it using Chrome DevTools, within the first two months, and show it to a potential employer.",
+      "blur_level": 1,
+      "scenario_count": 3,
+      "assessment_count": 2,
+      "mock_interview_count": 1
+    },
+    {
+      "code": "M04",
+      "title": "Mid-Level Engineer",
+      "salary_tier": "₹12–18 LPA",
+      "unlock_statement": "You will design and implement a single-page application using a frontend framework, and present it to a product team, highlighting your problem-solving skills and design decisions, by month 4.",
+      "blur_level": 2,
+      "scenario_count": 2,
+      "assessment_count": 2,
+      "mock_interview_count": 1
+    },
+    {
+      "code": "M05",
+      "title": "Senior Frontend Developer",
+      "salary_tier": "₹18–25 LPA",
+      "unlock_statement": "Sneha, you'll lead a team to build a complex UI feature, like a dashboard, and guide them through the development process, ensuring best practices and code quality, as you work towards your goal of building UI that real customers see.",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    },
+    {
+      "code": "M06",
+      "title": "Technical Lead",
+      "salary_tier": "₹25–40 LPA",
+      "unlock_statement": "You will architect a scalable frontend architecture for a product company, and communicate the technical vision to stakeholders, leveraging your knowledge of HTML, CSS, and JavaScript, and your experience building live websites.",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    },
+    {
+      "code": "M07",
+      "title": "Expert Frontend Developer",
+      "salary_tier": "₹40+ LPA",
+      "unlock_statement": "Sneha, you'll be recognized as an expert in the frontend development community, and will be able to mentor junior developers, and contribute to open-source projects, as you continue to build UI that makes a real impact on customers, and work in a company that values what you build.",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    }
+  ]
+}

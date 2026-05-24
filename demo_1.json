@@ -1,0 +1,15 @@
+{
+  "icp_type": "high_wage",
+  "name": "Priya Nair",
+  "current_role": "2nd year CS student",
+  "target_role": "Frontend Developer",
+  "urgency_months": 5,
+  "skills": ["HTML", "CSS", "basic JavaScript"],
+  "language": "en",
+  "vision_profile": {
+    "current_life": "Attending college, no internship, learning from YouTube",
+    "main_blocker": "Never built a real project anyone has used",
+    "vision_12mo": "Working at a startup, building UI that real users see",
+    "top_motivation": "Want to get a job before final year ends"
+  }
+}

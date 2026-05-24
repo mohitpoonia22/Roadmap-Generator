@@ -1,0 +1,16 @@
+{
+  "name": "roadmap-generator",
+  "version": "1.0.0",
+  "description": "AI-powered 7-milestone career roadmap generator — Group 1 submission",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js",
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "groq-sdk": "^1.2.0",
+    "pdf-parse": "^2.4.5",
+    "pdfjs-dist": "^5.7.284"
+  }
+}

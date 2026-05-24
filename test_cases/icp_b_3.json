@@ -1,0 +1,15 @@
+{
+  "icp_type": "low_wage",
+  "name": "Ramesh Kumar",
+  "current_role": "Auto-rickshaw driver",
+  "target_role": "Office assistant / admin support",
+  "urgency_months": 4,
+  "skills": ["Basic reading and writing", "Hindi speaking", "Punctual and disciplined"],
+  "language": "hi",
+  "vision_profile": {
+    "current_life": "Driving auto 12 hours a day, income depends on weather and luck",
+    "main_blocker": "10th pass only, thinks he is not qualified enough for an office",
+    "vision_12mo": "Working in an office as an assistant, going home at a fixed time every day",
+    "top_motivation": "Body cannot handle driving 10 more years, need a desk job"
+  }
+}

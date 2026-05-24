@@ -1,0 +1,15 @@
+{
+  "icp_type": "low_wage",
+  "name": "Mohan Verma",
+  "current_role": "Tea stall helper",
+  "target_role": "Data entry operator",
+  "urgency_months": 4,
+  "skills": ["Basic reading", "Smartphone use"],
+  "language": "hi",
+  "vision_profile": {
+    "current_life": "Working 14 hours a day for 6000 rupees a month",
+    "main_blocker": "Never touched a computer keyboard",
+    "vision_12mo": "Sitting in an office with AC, fixed 15k salary",
+    "top_motivation": "Send kids to a good school"
+  }
+}

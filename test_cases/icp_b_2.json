@@ -1,0 +1,15 @@
+{
+  "icp_type": "low_wage",
+  "name": "Sunita Devi",
+  "current_role": "Domestic worker (part-time household help)",
+  "target_role": "Customer support executive",
+  "urgency_months": 6,
+  "skills": ["Basic Hindi reading and writing", "Polite communication", "Hardworking"],
+  "language": "hi",
+  "vision_profile": {
+    "current_life": "Working in 3 houses daily, no fixed income, no leave, no respect",
+    "main_blocker": "Never used a computer, scared of office environment",
+    "vision_12mo": "Sitting in a proper office, talking to customers on phone, getting salary on the 1st of every month",
+    "top_motivation": "Want my children to see me in an office uniform"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "milestones": [
+    {
+      "code": "M01",
+      "title": "बुनियादी कौशल दिवस १",
+      "salary_tier": "₹०–१२क{/माह",
+      "unlock_statement": "सुनीता देवी, आप पहली बार कंप्यूटर पर बैठकर अपना नाम और पता टाइप करेंगी और अपने परिचय को सुनाएंगी।",
+      "blur_level": 0,
+      "scenario_count": 4,
+      "assessment_count": 3,
+      "mock_interview_count": 2
+    },
+    {
+      "code": "M02",
+      "title": "कार्यालय तैयार",
+      "salary_tier": "₹१२–१५क{/माह",
+      "unlock_statement": "आप अपने पहले दिन कार्यालय में पहुंचेंगी और अपने सहकर्मियों से परिचित होंगी, और अपने काम को समझेंगी।",
+      "blur_level": 0,
+      "scenario_count": 4,
+      "assessment_count": 3,
+      "mock_interview_count": 2
+    },
+    {
+      "code": "M03",
+      "title": "ग्राहक सेवा की शुरुआत",
+      "salary_tier": "₹१५–१८क{/माह",
+      "unlock_statement": "सुनीता देवी, आप पहली बार फोन पर ग्राहक से बात करेंगी और उनकी समस्या का समाधान करेंगी।",
+      "blur_level": 1,
+      "scenario_count": 3,
+      "assessment_count": 2,
+      "mock_interview_count": 1
+    },
+    {
+      "code": "M04",
+      "title": "आत्मविश्वास की वृद्धि",
+      "salary_tier": "₹१८–२२क{/माह",
+      "unlock_statement": "आप अपने सहकर्मियों के साथ बैठक में भाग लेंगी और अपने विचारों को व्यक्त करेंगी, और अपनी प्रगति को देखेंगी।",
+      "blur_level": 2,
+      "scenario_count": 2,
+      "assessment_count": 2,
+      "mock_interview_count": 1
+    },
+    {
+      "code": "M05",
+      "title": "ग्राहक सेवा में महारत",
+      "salary_tier": "₹२२–२८क{/माह",
+      "unlock_statement": "सुनीता देवी, आप ग्राहकों की समस्याओं का समाधान करने में महारत हासिल करेंगी और अपने ग्राहकों को संतुष्ट करेंगी।",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    },
+    {
+      "code": "M06",
+      "title": "कार्यालय में सम्मान",
+      "salary_tier": "₹२८–३५क{/माह",
+      "unlock_statement": "आप अपने सहकर्मियों और वरिष्ठों का सम्मान प्राप्त करेंगी और अपने काम को गर्व से करेंगी।",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    },
+    {
+      "code": "M07",
+      "title": "नये अवसरों की ओर",
+      "salary_tier": "₹३५क{/माह से अधिक",
+      "unlock_statement": "सुनीता देवी, आप अपने लक्ष्यों को प्राप्त करेंगी और अपने परिवार को गर्व से दिखाएंगी कि आप एक कार्यालय में काम करती हैं।",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    }
+  ]
+}

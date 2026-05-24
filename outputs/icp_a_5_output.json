@@ -1,0 +1,74 @@
+{
+  "milestones": [
+    {
+      "code": "M01",
+      "title": "Foundation & First Project",
+      "salary_tier": "₹0–6 LPA",
+      "unlock_statement": "Tanvir, you'll build and deploy a simple data pipeline using Python and SQL within the next 3 days, and explain the data flow to a friend without looking at notes.",
+      "blur_level": 0,
+      "scenario_count": 4,
+      "assessment_count": 3,
+      "mock_interview_count": 2
+    },
+    {
+      "code": "M02",
+      "title": "Core Skills Unlocked",
+      "salary_tier": "₹6–8 LPA",
+      "unlock_statement": "You will design and implement a data warehouse using Pandas and SQL, and walk a non-technical friend through the database schema in 10 minutes without needing a visual aid.",
+      "blur_level": 0,
+      "scenario_count": 4,
+      "assessment_count": 3,
+      "mock_interview_count": 2
+    },
+    {
+      "code": "M03",
+      "title": "Junior Data Engineer Ready",
+      "salary_tier": "₹8–12 LPA",
+      "unlock_statement": "Tanvir, you'll complete a data engineering challenge on a platform like Kaggle, and write a blog post about your approach and the insights you gained from the data, highlighting your use of Python and statistics.",
+      "blur_level": 1,
+      "scenario_count": 3,
+      "assessment_count": 2,
+      "mock_interview_count": 1
+    },
+    {
+      "code": "M04",
+      "title": "Mid-Level Engineer",
+      "salary_tier": "₹12–18 LPA",
+      "unlock_statement": "You will lead a team project to build a real-time data pipeline, and present the architecture and trade-offs to a panel of senior engineers, demonstrating your expertise in data engineering and communication skills.",
+      "blur_level": 2,
+      "scenario_count": 2,
+      "assessment_count": 2,
+      "mock_interview_count": 1
+    },
+    {
+      "code": "M05",
+      "title": "Senior Data Engineer",
+      "salary_tier": "₹18–25 LPA",
+      "unlock_statement": "Tanvir, you'll design and implement a large-scale data architecture for a company, and mentor junior engineers on the team, helping them overcome common data engineering challenges and improve their skills.",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    },
+    {
+      "code": "M06",
+      "title": "Technical Lead",
+      "salary_tier": "₹25–40 LPA",
+      "unlock_statement": "You will develop a strategic plan for data-driven decision making at a company, and present it to the executive team, highlighting the benefits of data engineering and the impact on business outcomes, using your knowledge of statistics and data analysis.",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    },
+    {
+      "code": "M07",
+      "title": "Executive Role",
+      "salary_tier": "₹40+ LPA",
+      "unlock_statement": "Tanvir, you'll be responsible for driving business growth through data-driven innovation, and will be recognized as a thought leader in the industry, speaking at conferences and publishing articles on data engineering and its applications, and inspiring others with your vision and expertise.",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    }
+  ]
+}

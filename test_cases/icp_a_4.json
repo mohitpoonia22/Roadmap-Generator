@@ -1,0 +1,15 @@
+{
+  "icp_type": "high_wage",
+  "name": "Kabir Shah",
+  "current_role": "Marketing executive at a retail brand",
+  "target_role": "Product Manager",
+  "urgency_months": 9,
+  "skills": ["Excel", "PowerPoint", "Google Analytics", "Copywriting", "Customer interviews"],
+  "language": "en",
+  "vision_profile": {
+    "current_life": "3 years in marketing, good at understanding customers but no tech role yet",
+    "main_blocker": "Don't have engineering background, afraid PM roles want only engineers",
+    "vision_12mo": "Working as APM or associate PM at a startup, owning a feature end-to-end",
+    "top_motivation": "I already think like a PM — I just need the credential and the vocabulary"
+  }
+}

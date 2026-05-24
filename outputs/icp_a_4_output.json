@@ -1,0 +1,74 @@
+{
+  "milestones": [
+    {
+      "code": "M01",
+      "title": "Foundation & First Project",
+      "salary_tier": "₹0–6 LPA",
+      "unlock_statement": "Kabir, you'll create a simple product roadmap and pitch it to a friend, using your marketing skills to explain the customer needs and your proposed solution.",
+      "blur_level": 0,
+      "scenario_count": 4,
+      "assessment_count": 3,
+      "mock_interview_count": 2
+    },
+    {
+      "code": "M02",
+      "title": "Core Skills Unlocked",
+      "salary_tier": "₹6–8 LPA",
+      "unlock_statement": "You will design a basic wireframe for a mobile app, and explain your design decisions to a hypothetical developer, using your knowledge of customer interviews and Google Analytics.",
+      "blur_level": 0,
+      "scenario_count": 4,
+      "assessment_count": 3,
+      "mock_interview_count": 2
+    },
+    {
+      "code": "M03",
+      "title": "Junior PM Ready",
+      "salary_tier": "₹8–12 LPA",
+      "unlock_statement": "Kabir, you'll prioritize a list of features for a fictional product, and defend your priorities in a mock meeting with a cross-functional team, using your copywriting skills to clearly articulate your reasoning.",
+      "blur_level": 1,
+      "scenario_count": 3,
+      "assessment_count": 2,
+      "mock_interview_count": 1
+    },
+    {
+      "code": "M04",
+      "title": "Mid-Level Product Manager",
+      "salary_tier": "₹12–18 LPA",
+      "unlock_statement": "You will develop a comprehensive product strategy for a real-world company, and present it to a panel of industry experts, using your understanding of customer needs and market trends to inform your decisions.",
+      "blur_level": 2,
+      "scenario_count": 2,
+      "assessment_count": 2,
+      "mock_interview_count": 1
+    },
+    {
+      "code": "M05",
+      "title": "Senior Product Leader",
+      "salary_tier": "₹18–25 LPA",
+      "unlock_statement": "Kabir, you'll lead a team of product managers to launch a new feature, and own the entire process from concept to launch, using your skills in project management and stakeholder communication to drive success.",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    },
+    {
+      "code": "M06",
+      "title": "Product Executive",
+      "salary_tier": "₹25–40 LPA",
+      "unlock_statement": "You will develop a long-term product vision for a company, and present it to the executive team, using your understanding of market trends and customer needs to inform your strategy and drive business growth.",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    },
+    {
+      "code": "M07",
+      "title": "Product Thought Leader",
+      "salary_tier": "₹40+ LPA",
+      "unlock_statement": "Kabir, you'll be recognized as a thought leader in the product management community, and will be invited to speak at industry conferences, using your expertise and experience to inspire and educate others, and to drive innovation and growth in the industry.",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    }
+  ]
+}

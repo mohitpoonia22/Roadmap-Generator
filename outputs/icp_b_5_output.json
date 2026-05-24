@@ -1,0 +1,74 @@
+{
+  "milestones": [
+    {
+      "code": "M01",
+      "title": "बेसिक स्किल्स दिन १",
+      "salary_tier": "₹०–१२क$/माह",
+      "unlock_statement": "दीपक, आप अपने पहले दिन बीपीओ ट्रेनिंग में बेसिक इंग्लिश वाक्य बोल पाएंगे और अपना परिचय दे पाएंगे",
+      "blur_level": 0,
+      "scenario_count": 4,
+      "assessment_count": 3,
+      "mock_interview_count": 2
+    },
+    {
+      "code": "M02",
+      "title": "ऑफिस रेडी",
+      "salary_tier": "₹१२–१५क$/माह",
+      "unlock_statement": "आप एक मॉक कॉल में अपनी समस्या का समाधान कर पाएंगे और अपने उत्तर को विश्वासपूर्वक दे पाएंगे",
+      "blur_level": 0,
+      "scenario_count": 4,
+      "assessment_count": 3,
+      "mock_interview_count": 2
+    },
+    {
+      "code": "M03",
+      "title": "पहला पे स्लिप",
+      "salary_tier": "₹१५–१८क$/माह",
+      "unlock_statement": "दीपक, आप अपने पहले महीने की सैलरी का पे स्लिप देख पाएंगे और अपने परिवार के साथ अपनी पहली सैलरी की चर्चा कर पाएंगे",
+      "blur_level": 1,
+      "scenario_count": 3,
+      "assessment_count": 2,
+      "mock_interview_count": 1
+    },
+    {
+      "code": "M04",
+      "title": "विश्वासपात्र कर्मचारी",
+      "salary_tier": "₹१८–२२क$/माह",
+      "unlock_statement": "आप अपने वर्कस्टेशन पर अपनी जिम्मेदारियों को पूरा कर पाएंगे और अपने सीनियर्स को अपनी क्षमताओं पर विश्वास दिला पाएंगे",
+      "blur_level": 2,
+      "scenario_count": 2,
+      "assessment_count": 2,
+      "mock_interview_count": 1
+    },
+    {
+      "code": "M05",
+      "title": "टीम में सम्मिलित",
+      "salary_tier": "₹२२–२८क$/माह",
+      "unlock_statement": "दीपक, आप अपनी टीम के साथ मिलकर काम कर पाएंगे और अपने विचारों को प्रस्तुत कर पाएंगे जो आपकी टीम के लिए मूल्यवान होंगे",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    },
+    {
+      "code": "M06",
+      "title": "सीनियर कर्मचारी",
+      "salary_tier": "₹२८–३५क$/माह",
+      "unlock_statement": "आप अपने जूनियर्स को गाइड कर पाएंगे और अपने अनुभव को उनके साथ साझा कर पाएंगे जो उनके लिए मार्गदर्शक होंगे",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    },
+    {
+      "code": "M07",
+      "title": "टीम लीडर",
+      "salary_tier": "₹३५क+/माह",
+      "unlock_statement": "दीपक, आप अपनी टीम का नेतृत्व कर पाएंगे और अपने लक्ष्यों को प्राप्त करने के लिए अपनी टीम को प्रेरित कर पाएंगे जो आपकी संगठन के लिए मूल्यवान होंगे",
+      "blur_level": 3,
+      "scenario_count": 1,
+      "assessment_count": 1,
+      "mock_interview_count": 0
+    }
+  ]
+}

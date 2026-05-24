@@ -1,0 +1,15 @@
+{
+  "icp_type": "low_wage",
+  "name": "Arjun Yadav",
+  "current_role": "Delivery partner",
+  "target_role": "Data entry executive",
+  "urgency_months": 3,
+  "skills": ["Basic smartphone use", "Some Excel"],
+  "language": "hi",
+  "vision_profile": {
+    "current_life": "Delivering 10 hours a day, no fixed salary, rain or heat doesn't matter",
+    "main_blocker": "No computer skills, no idea where to start",
+    "vision_12mo": "Office job, fixed salary, stability",
+    "top_motivation": "Stability for my family"
+  }
+}
